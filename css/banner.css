@@ -1,0 +1,133 @@
+
+
+.navbar-default .navbar-nav > li.drop:hover .dropdown {
+    visibility: visible;
+	opacity: 1;  
+}
+
+.dropdown li, .sup-dropdown li {
+	position: relative;
+    border-top: 1px solid rgba(0, 0, 0, 0.04);
+}
+
+.dropdown li:first-child, 
+.sup-dropdown li:first-child {
+    border-top: none;
+}
+
+.dropdown li a, 
+.sup-dropdown li a {
+    display: block;
+    color: #6b6b6b;
+    font-size: 14px;
+    padding: 10px 12px;
+    text-decoration: none;
+    //text-transform: uppercase;
+    transition: padding 0.2s ease-in-out;
+    -moz-transition: padding 0.2s ease-in-out;
+    -webkit-transition: padding 0.2s ease-in-out;
+    -o-transition: padding 0.2s ease-in-out;
+}
+
+
+.dropdown > li:hover > a, 
+.sup-dropdown li:hover > a {
+    background: #FF432E;
+    color: #fff;
+}
+
+.dropdown  li a.active, 
+.sup-dropdown li a.active {
+	background: #FF432E;
+    color: #fff;
+}
+
+.dropdown li a i {
+	margin: 0 0 0 -4px;
+}
+
+
+
+.banner {
+    text-align: center;
+    color: #fff;
+    background: url(../images/banner.jpg) no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.banner .overlay {
+    background: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    height: 100%;
+}
+
+.intro-text {
+    position: relative;
+    padding: 20% 0 15% 0;
+}
+
+.banner .intro-text h1 {    
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 5px;
+    margin-bottom: 55px;
+    -webkit-animation: bounceIn;
+    -moz-animation: rubberBand;
+    -o-animation: bounceIn;
+    animation: bounceIn;
+    -webkit-animation-duration: 2s;
+    -moz-animation-duration: 2s;
+    -o-animation-duration: 2s;
+    animation-duration: 2s;
+    font-family: 'Oswald', sans-serif;
+}
+
+.banner .intro-text h1 span {
+    color: #ff432e;
+}
+
+.banner .intro-text p {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 35px;
+    letter-spacing: 3px;
+    margin-bottom: 55px;
+    -webkit-animation: bounceInLeft;
+    -moz-animation: fadeInLeft;
+    -o-animation: fadeInLeft;
+    animation: bounceLeft;
+    -webkit-animation-duration: 2s;
+    -moz-animation-duration: 2s;
+    -o-animation-duration: 2s;
+    animation-duration: 2s;
+}
+
+.banner .intro-text .btn-primary {
+    padding: 15px 25px;
+    font-size: 16px;
+    border-color: #fff;
+    color: #fff;
+    border-radius: 0;
+    width: 130px;
+}
+
+.banner .btn-primary:hover {
+	background: #fff;
+	border-color: #fff;
+    color: #111;
+}
+
+
+
+
+
+
+
+

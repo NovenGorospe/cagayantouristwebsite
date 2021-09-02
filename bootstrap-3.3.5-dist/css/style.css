@@ -1,0 +1,165 @@
+*{
+
+	font-family:SophosSans-Light,arial,helvetica,sans-serif;
+}
+body { overflow-x: hidden;  background-color: #fffffe}
+.container{
+	padding: 0px;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 0px;
+    
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+}
+.container.page .productbanner .productbannerCont h1 {
+    color: #fff;
+    white-space: nowrap;
+    font-size: 44px;
+    float: left;
+    margin: 0;
+}
+div.signinbuttonWp { height: 60px; top: 0px; background: rgba(255,255,255,1.0); box-shadow: rgba(0,0,0,0.2) 0 1px 12px; }
+
+.signinbuttonWp { position: fixed; top: 59px; left: 0; width: 100%; z-index: 8888; }
+.blueheaderBtn { border: #007ac6 solid 1px; height: 30px; float: right; line-height: 30px; padding: 0 15px; border-radius: 4px; margin: -45px 0 0 0; color: #007ac6; text-transform: uppercase; font-size: 14px; }
+
+#ppnmain_0_ppnmarquee_0_WidgetPanel {text-align: center;}
+#ppnmain_0_ppnmarquee_0_WidgetPanel.rich-text {line-height: 0;}
+.panel.strip {background: #1b5087; padding: 16px 0;  width: 100%; text-align: center;display: inline-block;}
+.panel.strip p { color: #fff; line-height: 34px; font-size: 19px; margin: 0px auto;}
+.panel.strip .buttonRow { width:auto; margin:0;  }
+.panel.strip .buttonRow .btn {padding: 8px 22px;}
+.buttonRow .btn:first-child:last-child {margin-left: 10px;}
+.panel.strip .buttonRow .btn {padding: 8px 22px;}
+.btn.btngreen {background-color: #3fae29; border: 1px solid #3fae29;}
+.productbanner .productbannerCont .titleicon { float: left; margin-right: 7px; margin-top: 6px; }
+.productbanner .productbannerCont h1 { color: #fff; white-space: nowrap; font-size: 50px; float: left; }
+.productbanner, .takelookRow, .systemReqRow { width: 1200px; padding-left: 3000px; margin-left: -3095px; padding-right: 3000px; margin-right: -3000px; }
+.productbanner { background: #007ac7; height: 320px; }
+.productbanner .bannerContainer { margin: 0 auto; width: 1200px; position: relative; overflow: hidden; }
+.productbanner .productbannerCont { position: absolute; top: 45px; left: 100px; color: #fff; }
+.productbanner .productbannerCont h4 { font-size: 24px; line-height: 28px; margin: 0; clear: both; padding-top: 10px; }
+.productbanner .productbannerCont .buttonRow { overflow: hidden; padding-top: 24px; clear: both; text-align: center; float: left; }
+.productbanner .productbannerCont .large-green { background: #71a865; border: 1px solid #7fbb73; border-radius: 5px; color: #fff; display: inline-block; font-size: 22px; padding: 0px 1px; text-align: center; text-decoration: none; width: 272px; line-height: 60px; margin-bottom: 8px; }
+.productbanner .productbannerCont .large-green:hover { background: #fff; border: 1px solid #7fbb73; color: #7fbb73; }
+.productbanner .productbannerCont .simpleLink { color: #fff; font-size: 14px;  }
+.productbanner .productbannerCont .titleicon { float: left; margin-right: 7px; margin-top: 6px; }
+.container.page .productbanner .productbannerCont h1 { color: #fff; white-space: nowrap; font-size: 44px; float: left; margin: 0; }
+.productbanner, .takelookRow, .systemReqRow { width: 1200px; padding-left: 3000px; margin-left: -3095px; padding-right: 3000px; margin-right: -3000px; }
+.container.page .productbanner { background: #337BC4; height: auto; }
+.productbanner .bannerContainer { margin: 0 auto; width: 1200px; position: relative; overflow: hidden; }
+.productbanner .productbannerCont { position: absolute; top: 45px; left: 100px; color: #fff; }
+.container.page .productbanner .productbannerCont h4 { font-size: 22px; line-height: 28px; margin: 0; clear: both; padding-top: 20px; }
+.productbanner .productbannerCont .buttonRow { overflow: hidden; padding-top: 30px; clear: both; text-align: center; float: left; }
+.productbanner .productbannerCont .buttonRow .large-green { background: #3fae29; border: 1px solid #3fae29; border-radius: 3px; color: #fff; display: inline-block; font-size: 22px; padding: 0px 1px; text-align: center; text-decoration: none; width: 272px; line-height: 60px;  margin-bottom: 8px; }
+.productbanner .productbannerCont .buttonRow .large-green:hover { background: #fff; border: 1px solid #3fae29; color: #3fae29; }
+.container.page .productbanner .productbannerCont .simpleLink { color: #fff; font-size: 18px; display: block; padding-top: 5px; }
+/*
+.panel.strip {background: #1b5087; padding: 16px 0;  width: 100%; text-align: center;display: inline-block;}
+.panel.strip p { color: #fff; line-height: 34px; font-size: 19px; margin: 0px auto;}
+.buttonRow .btn:first-child:last-child {margin-left: 10px;}
+.panel.strip .buttonRow .btn {padding: 8px 22px;}
+.btn.btngreen {background-color: #3fae29; border: 1px solid #3fae29;}
+/*.buttonRow .btn {margin: 0 10px; padding: 9px 20px;font-size: 15px;border-radius: 3px; line-height: 17px;min-width: 80px; text-align: center;}*/
+a.btn {-ie-border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; border-radius: 15px; padding: 4px 18px 7px; background: green; color: #fff;  text-decoration: none;}
+a {outline: none;}
+#ppnmain_0_ppnmarquee_0_WidgetPanel {text-align: center; margin: 40px 0px -20px 0px;}
+#ppnmain_0_ppnmarquee_0_WidgetPanel.rich-text {line-height: 0;}
+.panel.strip {background: #1b5087; padding: 16px 0;  width: 100%; text-align: center;display: inline-block;}
+.panel.strip p { color: #fff; line-height: 34px; font-size: 19px; margin: 0px auto;}
+.panel.strip .buttonRow { width:auto; margin:0;  }
+.panel.strip .buttonRow .btn {padding: 8px 22px;}
+.buttonRow .btn:first-child:last-child {margin-left: 10px;}
+.panel.strip .buttonRow .btn {padding: 8px 22px;}
+.btn.btngreen {background-color: #3fae29; border: 1px solid #3fae29;}
+
+.panalB { background: #e6eff7; margin-left: -3000px; margin-right: -3000px; padding: 70px 3000px; clear: both; position: relative; overflow: hidden;}
+
+.treecallBoxW { overflow: hidden; text-align: center; margin: auto; }
+
+.panalC { background: #00193b; margin-left: -3000px; margin-right: -3000px; padding: 80px 3000px 100px 3000px; clear: both; position: relative; overflow: hidden; color: #fff; }
+.container.page .panalC h1 { color: #fff; margin-bottom: 70px; }
+.panalC table { border-collapse: collapse; border-color: #285381; }
+.panalC table td { border-color: #326192; box-shadow: none; text-align: center; padding: 12px 20px; width: 118px; color: #b5b8bb; font-size: 12px; line-height: 16px; }
+.panalC table tr:first-child td { font-size: 16px; color: #ffffff; line-height: 20px; }
+.panalC table td:first-child { padding: 12px 20px 12px 50px; text-align: left; border-left-color: #00193B; width: 180px; }
+.panalC table td.noBorder { border-top-color: #00193B; border-left-color: #00193B; }
+.panalC{background: #1b5087;}
+.panalC table td.darkblueBg { background: #055bb5; }
+.panalC table td.blueBg { background: #022E60; }
+.panalD { padding: 60px 0 38px 0; overflow: hidden; clear: both; }
+.panalD .squareBoxW { overflow: hidden; }
+.panalD .squareBoxW .callum { border: #dddddd solid 1px; float: left; width: 410px; padding: 40px 35px; text-align: center; margin-bottom: 32px; min-height: 245px; }
+.panalD .squareBoxW .callum.rightalign { float: right; }
+.panalD .squareBoxW .callum .fivestar { padding-top: 25px; }
+.panalD .squareBoxW .callum .logoRow { min-height: 77px; }
+.panalD .squareBoxW .callum h3 { margin: 23px 0 20px 0; font-size: 18px; line-height: 24px; }
+.panalD .squareBoxW .callum p { font-size: 15px; line-height: 20px; text-align: center; margin: 0; }
+.inline{
+	margin-top: 10px;
+}
+p{
+	padding-top: 12px;	
+}
+.card{
+	border-radius: 6px;
+    box-shadow: 0 2px 2px rgba(204, 197, 185, 0.5);
+    background-color: #FFFFFF;
+    color: #252422;
+    margin-bottom: 20px;
+    position: relative;
+    z-index: 1;
+}
+.card{
+	margin-top:15px; 
+}
+.card .header {
+    padding: 20px 20px 0;
+}
+.card .content {
+    padding: 15px 15px 10px 15px;
+}
+.card .title {
+    margin: 0;
+    color: #252422;
+    font-weight: 300;
+}
+h4, .h4 {
+    font-size: 1.5em;
+    font-weight: 600;
+    line-height: 1.2em;
+}
+.navbar-brand{
+font-size: 25px;
+}
+ .nav .navbar-nav .navbar-right ul,li{
+	font-size: 15px;
+}
+.panalB {
+    background: #e6eff7;
+    margin-left: -3000px;
+    margin-right: -3000px;
+    padding: 70px 3000px;
+    clear: both;
+    position: relative;
+    overflow: hidden;
+}
+.search{
+	margin: -400px 0px 0px 0px;
+}
+#btn-search{
+	float: right;
+	display: inherit;
+}
+
+input{
+	width: 100%;
+}
+.container .page{
+    margin: -70px 0px 0px 0px;
+}
+#mapp{
+    margin-bottom:100px; 
+}

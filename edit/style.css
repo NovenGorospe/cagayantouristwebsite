@@ -1,0 +1,40 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	font-size: 100%;
+	background: #F1F1FF;
+}
+
+.header1 {
+
+	width: 100%;
+	margin: 50px auto 0px;
+	color: white;
+	background: #007ea3;
+	text-align: center;
+	border: 1px solid #B0C4DE;
+	border-bottom: none;
+	border-radius: 0px;
+	padding: 20px;
+
+}
+form, .content {
+	width: 100%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid #B0C4DE;
+	background: white;
+	border-radius:0px;
+}
+.btn {
+	
+	padding-bottom: 10px;
+	font-size: 15px;
+	color: white;
+	background: #007ea3;
+	border: none;
+
+	width: 20%;
+}
